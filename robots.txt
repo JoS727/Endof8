@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://endof8.com/sitemap.xml
